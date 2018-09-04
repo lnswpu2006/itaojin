@@ -1,0 +1,33 @@
+log_index:
+  name: 登录首页
+  locators:
+    -
+      name: 首页
+      css: class->icon-shouye
+    -
+      name: 微信公众号
+      css: class->icon-erweima
+    -
+      name: 淘金小助手
+      css: class->icon-pinpaibiaoshi-xiaozhushou
+    -
+      name: 任务中心
+      css: class->icon-icon-test
+    -
+      name: 我的消息
+      css: class->icon-xiaoxi
+    -
+      name: 退出登录
+      css: class->icon-tuichuanniu
+    -
+      name: 立即提现
+      css: class->js-now-out
+    -
+      name: 立即绑定
+      css: class->blue
+    -
+      name: 今日消息
+      css: class->notice
+    -
+      name: 我的任务计划
+      css: class->schedule

@@ -1,0 +1,4 @@
+2018-09-04 13:52:45,818 - root - INFO - ############################### START ###############################
+2018-09-04 13:52:48,546 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.633999824523926 seconds
+2018-09-04 13:52:49,694 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1480000019073486 seconds
+2018-09-04 13:54:03,579 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 71.11500000953674 seconds

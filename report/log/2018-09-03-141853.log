@@ -1,0 +1,13 @@
+2018-09-03 14:18:53,256 - root - INFO - ############################### START ###############################
+2018-09-03 14:18:55,870 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.611999988555908 seconds
+2018-09-03 14:18:57,022 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1519999504089355 seconds
+2018-09-03 14:19:02,372 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 5.341999769210815 seconds
+2018-09-03 14:19:04,142 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 1.7680001258850098 seconds
+2018-09-03 14:19:04,257 - root - INFO - SUCCESS    Clicked element: <class->register-status>, Spend 0.11399984359741211 seconds
+2018-09-03 14:19:04,337 - root - INFO - SUCCESS    Clear and type element: <class->phone> content: 1398089145011, Spend 0.07999992370605469 seconds
+2018-09-03 14:19:04,401 - root - INFO - SUCCESS    Clear and type element: <class->password> content: 123456, Spend 0.06400012969970703 seconds
+2018-09-03 14:19:04,473 - root - INFO - SUCCESS    Clicked element: <css->#customer-login > div > div > form > dl.btn > dd > input>, Spend 0.0710000991821289 seconds
+2018-09-03 14:19:19,493 - root - INFO - SUCCESS    Get current window title, Spend 0.018000125885009766 seconds
+2018-09-03 14:19:19,611 - root - INFO - FAIL    Unable switch to frame element: <class->training-agreement-form>, Spend 0.11799979209899902 seconds
+2018-09-03 14:19:21,838 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0819997787475586 seconds
+2018-09-03 14:19:21,839 - root - INFO - ###############################  End  ###############################

@@ -1,0 +1,24 @@
+2018-09-04 11:56:25,172 - root - INFO - ############################### START ###############################
+2018-09-04 11:56:27,932 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.6589999198913574 seconds
+2018-09-04 11:56:29,057 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.124000072479248 seconds
+2018-09-04 11:56:31,535 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 2.436000108718872 seconds
+2018-09-04 11:56:32,890 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 1.3550000190734863 seconds
+2018-09-04 11:56:32,993 - root - INFO - SUCCESS    Clicked element: <class->register-status>, Spend 0.10200023651123047 seconds
+2018-09-04 11:56:33,074 - root - INFO - SUCCESS    Clear and type element: <class->phone> content: 1398089145011, Spend 0.07999992370605469 seconds
+2018-09-04 11:56:33,144 - root - INFO - SUCCESS    Clear and type element: <class->password> content: 123456, Spend 0.0690000057220459 seconds
+2018-09-04 11:56:33,200 - root - INFO - SUCCESS    Clicked element: <css->#customer-login > div > div > form > dl.btn > dd > input>, Spend 0.0559999942779541 seconds
+2018-09-04 11:56:38,218 - root - INFO - SUCCESS    Get current window title, Spend 0.018000125885009766 seconds
+2018-09-04 11:56:38,292 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.06000018119812012 seconds
+2018-09-04 11:56:39,304 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.009999752044677734 seconds
+2018-09-04 11:56:40,322 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.018000125885009766 seconds
+2018-09-04 11:56:41,359 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03500008583068848 seconds
+2018-09-04 11:56:42,396 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03500008583068848 seconds
+2018-09-04 11:56:43,409 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.012000083923339844 seconds
+2018-09-04 11:56:44,430 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.020999908447265625 seconds
+2018-09-04 11:56:45,467 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03500008583068848 seconds
+2018-09-04 11:56:46,494 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.02500009536743164 seconds
+2018-09-04 11:56:47,695 - root - INFO - SUCCESS    Clicked element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>, Spend 0.19999980926513672 seconds
+2018-09-04 11:56:47,763 - root - INFO - FAIL    Click element: <class->icon-icon-test> open a new window and swich into, Spend 0.04900002479553223 seconds
+2018-09-04 11:56:52,892 - root - INFO - FAIL    Unable to click element: <css->.icon-call>, Spend 5.109999895095825 seconds
+2018-09-04 11:56:55,002 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1050002574920654 seconds
+2018-09-04 11:56:55,003 - root - INFO - ###############################  End  ###############################

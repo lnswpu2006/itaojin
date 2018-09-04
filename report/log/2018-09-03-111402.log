@@ -1,0 +1,5 @@
+2018-09-03 11:14:02,080 - root - INFO - ############################### START ###############################
+2018-09-03 11:14:06,433 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.351999998092651 seconds
+2018-09-03 11:14:07,576 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1419997215270996 seconds
+2018-09-03 11:14:11,851 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 4.273000240325928 seconds
+2018-09-03 11:14:11,852 - root - INFO - FAIL    Unable to click element: <None>, Spend 0.0 seconds

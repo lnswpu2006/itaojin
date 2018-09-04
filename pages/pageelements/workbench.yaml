@@ -1,0 +1,53 @@
+workbench:
+  name: 任务台
+  locators:
+    -
+      name: 未迁入
+      css: css->.call>.switch
+    -
+      name: 系统通知
+      css: css->.balance
+    -
+      name: 网页拨打电话
+      css: css->.choose-label
+    -
+      name: 签入
+      css: css->.call > .switch > ul > li.on
+    -
+      name: 签出
+      css: css->.call > .switch > ul > li.off
+    -
+      name: 外呼总量
+      css: css->div.pull-left.callout-data > .data-content> .fieldset> dl:nth-child(1) > dd:nth-child(2)
+    -
+      name: 成功号码数量
+      css: css->section > dl:nth-child(2) > dd:nth-child(4)
+    -
+      name: 电话数量
+      css: css->section > dl:nth-child(1) > dd:nth-child(4)
+    -
+      name: 接通量
+      css: css->div.pull-left.callout-data > div > section > dl:nth-child(2) > dd.c-green
+    -
+      name: 接通率
+      css: css->div.pull-left.callout-data > .data-content> .fieldset> dl:nth-child(3) > dd:nth-child(2)
+    -
+      name: 成功号码率
+      css: css->div.pull-left.callout-data > .data-content> .fieldset> dl:nth-child(3) > dd:nth-child(4)
+    -
+      name: 接听总量
+      css: css->div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(1) >dd
+    -
+      name: 未接
+      css: css->div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(2) >dd
+    -
+      name: 已接
+      css: css->div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(3) >dd
+    -
+      name: 接听接通率
+      css: css-> div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(4) >dd
+    -
+      name: 图表
+      css: css->.highcharts-background
+
+

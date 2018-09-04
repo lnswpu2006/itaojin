@@ -1,0 +1,34 @@
+call:
+  name: 通话
+  locators:
+    -
+      name: 通话
+      css: css->.icon-call
+    -
+      name: 商家汇总
+      css: css->.store>li>span
+    -
+      name: 来电
+      css: css->.tabs> li:nth-child(1)
+    -
+      name: 我的通话
+      css: css->.tabs> li:nth-child(2)
+    -
+      name: 所有通话
+      css: css->.tabs> li:nth-child(3)
+    -
+      name: 搜索框
+      css: css->.text>input[type="text"]
+    -
+      name: 搜索
+      css: css->.text>.icon-sousuo2
+    -
+      name: 客户资料
+      css: css->.detail-tabs>.active
+    -
+      name: 工单
+      css: css->.detail-tabs>li:nth-child(2)
+    -
+      name: 联系历史
+      css: css->.detail-tabs>.history
+

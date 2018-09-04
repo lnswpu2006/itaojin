@@ -1,0 +1,27 @@
+2018-09-04 14:39:59,751 - root - INFO - ############################### START ###############################
+2018-09-04 14:40:02,447 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.6019999980926514 seconds
+2018-09-04 14:40:03,590 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1430001258850098 seconds
+2018-09-04 14:40:06,338 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 2.7310001850128174 seconds
+2018-09-04 14:40:08,281 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 1.941999912261963 seconds
+2018-09-04 14:40:08,383 - root - INFO - SUCCESS    Clicked element: <class->register-status>, Spend 0.10199975967407227 seconds
+2018-09-04 14:40:08,462 - root - INFO - SUCCESS    Clear and type element: <class->phone> content: 1398089145011, Spend 0.07800030708312988 seconds
+2018-09-04 14:40:08,540 - root - INFO - SUCCESS    Clear and type element: <class->password> content: 123456, Spend 0.07799983024597168 seconds
+2018-09-04 14:40:08,608 - root - INFO - SUCCESS    Clicked element: <css->#customer-login > div > div > form > dl.btn > dd > input>, Spend 0.06799983978271484 seconds
+2018-09-04 14:40:13,626 - root - INFO - SUCCESS    Get current window title, Spend 0.017000198364257812 seconds
+2018-09-04 14:40:13,694 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.05500006675720215 seconds
+2018-09-04 14:40:14,732 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03600001335144043 seconds
+2018-09-04 14:40:15,769 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.034999847412109375 seconds
+2018-09-04 14:40:16,806 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03500008583068848 seconds
+2018-09-04 14:40:17,844 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03500008583068848 seconds
+2018-09-04 14:40:18,880 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03399991989135742 seconds
+2018-09-04 14:40:19,918 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03699994087219238 seconds
+2018-09-04 14:40:20,955 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03400015830993652 seconds
+2018-09-04 14:40:21,994 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.037000179290771484 seconds
+2018-09-04 14:40:23,030 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03400015830993652 seconds
+2018-09-04 14:40:24,215 - root - INFO - SUCCESS    Clicked element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>, Spend 0.18400001525878906 seconds
+2018-09-04 14:40:27,354 - root - INFO - SUCCESS    Click element: <class->icon-icon-test> open a new window and swich into, Spend 0.11800026893615723 seconds
+2018-09-04 14:40:30,134 - root - INFO - SUCCESS    Get current window title, Spend 2.7790000438690186 seconds
+2018-09-04 14:40:31,326 - root - INFO - SUCCESS    Clicked element: <css->.icon-call>, Spend 0.0710000991821289 seconds
+2018-09-04 14:40:32,408 - root - INFO - FAIL    Unable to click element: <<selenium.webdriver.remote.webelement.WebElement (session="2439cbbfb2950f4c0a66fd7c791777f6", element="0.3508697103308822-4")>>, Spend 0.0 seconds
+2018-09-04 14:40:34,503 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0920000076293945 seconds
+2018-09-04 14:40:34,504 - root - INFO - ###############################  End  ###############################

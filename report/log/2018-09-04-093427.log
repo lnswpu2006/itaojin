@@ -1,0 +1,28 @@
+2018-09-04 09:34:27,644 - root - INFO - ############################### START ###############################
+2018-09-04 09:34:30,622 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.864000082015991 seconds
+2018-09-04 09:34:31,743 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.120999813079834 seconds
+2018-09-04 09:34:33,843 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 2.0840001106262207 seconds
+2018-09-04 09:34:36,180 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 2.3379998207092285 seconds
+2018-09-04 09:34:36,294 - root - INFO - SUCCESS    Clicked element: <class->register-status>, Spend 0.11099982261657715 seconds
+2018-09-04 09:34:36,380 - root - INFO - SUCCESS    Clear and type element: <class->phone> content: 1398089145011, Spend 0.08599996566772461 seconds
+2018-09-04 09:34:36,447 - root - INFO - SUCCESS    Clear and type element: <class->password> content: 123456, Spend 0.06599998474121094 seconds
+2018-09-04 09:34:36,519 - root - INFO - SUCCESS    Clicked element: <css->#customer-login > div > div > form > dl.btn > dd > input>, Spend 0.07200002670288086 seconds
+2018-09-04 09:34:51,539 - root - INFO - SUCCESS    Get current window title, Spend 0.017999887466430664 seconds
+2018-09-04 09:34:51,677 - root - INFO - SUCCESS    Clicked element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>, Spend 0.1230001449584961 seconds
+2018-09-04 09:34:56,855 - root - INFO - SUCCESS    Click element: <class->icon-icon-test> open a new window and swich into, Spend 0.12800002098083496 seconds
+2018-09-04 09:34:59,345 - root - INFO - SUCCESS    Get current window title, Spend 2.4880001544952393 seconds
+2018-09-04 09:34:59,391 - root - INFO - SUCCESS    Get element text element: <css->.call>.switch>, Spend 0.032000064849853516 seconds
+2018-09-04 09:34:59,422 - root - INFO - SUCCESS    Get element text element: <css->.call > .switch > ul > li.on>, Spend 0.0280001163482666 seconds
+2018-09-04 09:34:59,448 - root - INFO - SUCCESS    Get element text element: <css->.call > .switch > ul > li.off>, Spend 0.026999711990356445 seconds
+2018-09-04 09:34:59,476 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.callout-data > .data-content> .fieldset> dl:nth-child(1) > dd:nth-child(2)>, Spend 0.02700018882751465 seconds
+2018-09-04 09:34:59,503 - root - INFO - SUCCESS    Get element text element: <css->section > dl:nth-child(2) > dd:nth-child(4)>, Spend 0.026999950408935547 seconds
+2018-09-04 09:34:59,535 - root - INFO - SUCCESS    Get element text element: <css->section > dl:nth-child(1) > dd:nth-child(4)>, Spend 0.03000020980834961 seconds
+2018-09-04 09:34:59,569 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.callout-data > div > section > dl:nth-child(2) > dd.c-green>, Spend 0.032000064849853516 seconds
+2018-09-04 09:34:59,598 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.callout-data > .data-content> .fieldset> dl:nth-child(3) > dd:nth-child(2)>, Spend 0.029000043869018555 seconds
+2018-09-04 09:34:59,628 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.callout-data > .data-content> .fieldset> dl:nth-child(3) > dd:nth-child(4)>, Spend 0.029999971389770508 seconds
+2018-09-04 09:34:59,659 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(1) >dd>, Spend 0.028999805450439453 seconds
+2018-09-04 09:34:59,687 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(2) >dd>, Spend 0.028999805450439453 seconds
+2018-09-04 09:34:59,715 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(3) >dd>, Spend 0.026000022888183594 seconds
+2018-09-04 09:34:59,744 - root - INFO - SUCCESS    Get element text element: <css-> div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(4) >dd>, Spend 0.028999805450439453 seconds
+2018-09-04 09:35:01,846 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1000001430511475 seconds
+2018-09-04 09:35:01,847 - root - INFO - ###############################  End  ###############################

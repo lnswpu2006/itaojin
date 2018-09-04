@@ -1,0 +1,5 @@
+2018-09-03 15:18:24,963 - root - INFO - ############################### START ###############################
+2018-09-03 15:18:27,577 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.613999843597412 seconds
+2018-09-03 15:18:28,718 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.140000343322754 seconds
+2018-09-03 15:18:30,801 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.069999933242798 seconds
+2018-09-03 15:18:30,803 - root - INFO - ###############################  End  ###############################

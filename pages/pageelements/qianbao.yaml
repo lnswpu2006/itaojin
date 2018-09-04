@@ -1,0 +1,33 @@
+qianbao:
+  name: 我的钱包
+  locators:
+    -
+      name: 我的钱包
+      css: class->icon-qianbao
+    -
+      name: 可提现
+      css: css->.js-index-total>.cop-money
+    -
+      name: 提现中
+      css: css->.panel-body>.cop-money:nth-child(1)
+    -
+      name: 预估未结算
+      css: css->.panel-body>.cop-money:nth-child(2)\
+    -
+      name: 累计收益
+      css: css->.panel-body>.cop-money:nth-child(3)
+    -
+      name: 提现明细
+      css: css->.js-out-head>.gray:nth-child(1)
+    -
+      name: 报酬结算
+      css: css->.js-out-head>.gray:nth-child(2)
+    -
+      name: 奖惩明细
+      css: css->.js-out-head>.gray:nth-child(3)
+    -
+      name: 中移报酬表
+      css: css->.js-out-head>.gray:nth-child(4)
+    -
+      name: 云质检
+      css: css->.js-out-head>.gray:nth-child(5)

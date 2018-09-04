@@ -1,0 +1,48 @@
+2018-09-04 11:04:12,987 - root - INFO - ############################### START ###############################
+2018-09-04 11:04:15,672 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.575000047683716 seconds
+2018-09-04 11:04:16,815 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1430001258850098 seconds
+2018-09-04 11:04:21,952 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 5.119999885559082 seconds
+2018-09-04 11:04:23,222 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 1.2700002193450928 seconds
+2018-09-04 11:04:23,328 - root - INFO - SUCCESS    Clicked element: <class->register-status>, Spend 0.10500001907348633 seconds
+2018-09-04 11:04:23,405 - root - INFO - SUCCESS    Clear and type element: <class->phone> content: 1398089145011, Spend 0.07700014114379883 seconds
+2018-09-04 11:04:23,471 - root - INFO - SUCCESS    Clear and type element: <class->password> content: 123456, Spend 0.06499981880187988 seconds
+2018-09-04 11:04:23,529 - root - INFO - SUCCESS    Clicked element: <css->#customer-login > div > div > form > dl.btn > dd > input>, Spend 0.05800032615661621 seconds
+2018-09-04 11:04:28,540 - root - INFO - SUCCESS    Get current window title, Spend 0.009999752044677734 seconds
+2018-09-04 11:04:28,575 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.026999950408935547 seconds
+2018-09-04 11:04:29,586 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.009000301361083984 seconds
+2018-09-04 11:04:30,601 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.014999866485595703 seconds
+2018-09-04 11:04:31,636 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.034999847412109375 seconds
+2018-09-04 11:04:32,668 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.029000043869018555 seconds
+2018-09-04 11:04:33,706 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03600001335144043 seconds
+2018-09-04 11:04:34,745 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03600001335144043 seconds
+2018-09-04 11:04:35,782 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03600001335144043 seconds
+2018-09-04 11:04:36,815 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03000020980834961 seconds
+2018-09-04 11:04:37,847 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03000020980834961 seconds
+2018-09-04 11:04:38,884 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03500008583068848 seconds
+2018-09-04 11:04:39,919 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03299999237060547 seconds
+2018-09-04 11:04:40,955 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03400015830993652 seconds
+2018-09-04 11:04:41,994 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03699994087219238 seconds
+2018-09-04 11:04:43,031 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03400015830993652 seconds
+2018-09-04 11:04:44,209 - root - INFO - SUCCESS    Clicked element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>, Spend 0.1770000457763672 seconds
+2018-09-04 11:04:49,307 - root - INFO - SUCCESS    Click element: <class->icon-icon-test> open a new window and swich into, Spend 0.0690000057220459 seconds
+2018-09-04 11:04:50,398 - root - INFO - SUCCESS    Get current window title, Spend 1.0899999141693115 seconds
+2018-09-04 11:04:50,461 - root - INFO - SUCCESS    Get element text element: <css->.call>.switch>, Spend 0.03500008583068848 seconds
+2018-09-04 11:04:50,488 - root - INFO - SUCCESS    Get element text element: <css->.balance>, Spend 0.026999711990356445 seconds
+2018-09-04 11:04:50,517 - root - INFO - SUCCESS    Get element text element: <css->.choose-label>, Spend 0.0280001163482666 seconds
+2018-09-04 11:04:50,546 - root - INFO - SUCCESS    Get element text element: <css->.call > .switch > ul > li.on>, Spend 0.0279998779296875 seconds
+2018-09-04 11:04:50,574 - root - INFO - SUCCESS    Get element text element: <css->.call > .switch > ul > li.off>, Spend 0.0280001163482666 seconds
+2018-09-04 11:04:50,606 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.callout-data > .data-content> .fieldset> dl:nth-child(1) > dd:nth-child(2)>, Spend 0.032000064849853516 seconds
+2018-09-04 11:04:50,655 - root - INFO - SUCCESS    Get element text element: <css->section > dl:nth-child(2) > dd:nth-child(4)>, Spend 0.04799985885620117 seconds
+2018-09-04 11:04:50,694 - root - INFO - SUCCESS    Get element text element: <css->section > dl:nth-child(1) > dd:nth-child(4)>, Spend 0.03800010681152344 seconds
+2018-09-04 11:04:50,723 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.callout-data > div > section > dl:nth-child(2) > dd.c-green>, Spend 0.029000043869018555 seconds
+2018-09-04 11:04:50,755 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.callout-data > .data-content> .fieldset> dl:nth-child(3) > dd:nth-child(2)>, Spend 0.031000137329101562 seconds
+2018-09-04 11:04:50,786 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.callout-data > .data-content> .fieldset> dl:nth-child(3) > dd:nth-child(4)>, Spend 0.029999971389770508 seconds
+2018-09-04 11:04:50,817 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(1) >dd>, Spend 0.031000137329101562 seconds
+2018-09-04 11:04:50,850 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(2) >dd>, Spend 0.032000064849853516 seconds
+2018-09-04 11:04:50,881 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(3) >dd>, Spend 0.028999805450439453 seconds
+2018-09-04 11:04:50,913 - root - INFO - SUCCESS    Get element text element: <css-> div.pull-left.call-data > .data-content> .fieldset > dl:nth-child(4) >dd>, Spend 0.031999826431274414 seconds
+2018-09-04 11:04:50,988 - root - INFO - SUCCESS    Clicked element: <css->.icon-call>, Spend 0.059999942779541016 seconds
+2018-09-04 11:04:56,012 - root - INFO - SUCCESS    Get element text element: <css->.icon-call>, Spend 0.023000001907348633 seconds
+2018-09-04 11:05:01,101 - root - INFO - FAIL    Unable to get element text element: <css->.tabs> li:nth-child(1)>, Spend 5.0879998207092285 seconds
+2018-09-04 11:05:03,196 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0910000801086426 seconds
+2018-09-04 11:05:03,197 - root - INFO - ###############################  End  ###############################

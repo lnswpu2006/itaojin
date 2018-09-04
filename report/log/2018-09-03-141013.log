@@ -1,0 +1,4 @@
+2018-09-03 14:10:16,636 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.620999813079834 seconds
+2018-09-03 14:10:17,756 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1180002689361572 seconds
+2018-09-03 14:10:20,286 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 2.5199999809265137 seconds
+2018-09-03 14:10:22,145 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 1.8599998950958252 seconds

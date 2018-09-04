@@ -1,0 +1,14 @@
+2018-09-03 15:38:03,230 - root - INFO - ############################### START ###############################
+2018-09-03 15:38:05,814 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.5820000171661377 seconds
+2018-09-03 15:38:06,926 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1119999885559082 seconds
+2018-09-03 15:38:09,209 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 2.2729997634887695 seconds
+2018-09-03 15:38:10,847 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 1.636000394821167 seconds
+2018-09-03 15:38:10,964 - root - INFO - SUCCESS    Clicked element: <class->register-status>, Spend 0.11599993705749512 seconds
+2018-09-03 15:38:11,043 - root - INFO - SUCCESS    Clear and type element: <class->phone> content: 1398089145011, Spend 0.07800006866455078 seconds
+2018-09-03 15:38:11,111 - root - INFO - SUCCESS    Clear and type element: <class->password> content: 123456, Spend 0.06600022315979004 seconds
+2018-09-03 15:38:11,179 - root - INFO - SUCCESS    Clicked element: <css->#customer-login > div > div > form > dl.btn > dd > input>, Spend 0.06800007820129395 seconds
+2018-09-03 15:38:26,185 - root - INFO - SUCCESS    Get current window title, Spend 0.0069997310638427734 seconds
+2018-09-03 15:38:26,281 - root - INFO - SUCCESS    Clicked element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>, Spend 0.08999991416931152 seconds
+2018-09-03 15:38:31,421 - root - INFO - SUCCESS    Click element: <class->icon-icon-test> open a new window and swich into, Spend 0.10899996757507324 seconds
+2018-09-03 15:38:38,555 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.132999897003174 seconds
+2018-09-03 15:38:38,558 - root - INFO - ###############################  End  ###############################

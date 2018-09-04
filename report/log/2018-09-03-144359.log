@@ -1,0 +1,8 @@
+2018-09-03 14:43:59,289 - root - INFO - ############################### START ###############################
+2018-09-03 14:44:01,899 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.607999801635742 seconds
+2018-09-03 14:44:05,699 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1059999465942383 seconds
+2018-09-03 14:44:06,790 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 1.0820002555847168 seconds
+2018-09-03 14:44:06,921 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 0.13099980354309082 seconds
+2018-09-03 14:44:12,003 - root - INFO - FAIL    Unable to click element: <class->register-status>, Spend 5.081000089645386 seconds
+2018-09-03 14:44:14,111 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.055999994277954 seconds
+2018-09-03 14:44:14,112 - root - INFO - ###############################  End  ###############################

@@ -1,0 +1,12 @@
+2018-09-03 13:57:55,516 - root - INFO - ############################### START ###############################
+2018-09-03 13:57:58,142 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.622999906539917 seconds
+2018-09-03 13:57:59,281 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1389997005462646 seconds
+2018-09-03 13:58:01,550 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 2.260000228881836 seconds
+2018-09-03 13:58:03,190 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 1.6389997005462646 seconds
+2018-09-03 13:58:03,288 - root - INFO - SUCCESS    Clicked element: <class->register-status>, Spend 0.0970001220703125 seconds
+2018-09-03 13:58:03,368 - root - INFO - SUCCESS    Clear and type element: <class->phone> content: 1398089145011, Spend 0.07899999618530273 seconds
+2018-09-03 13:58:03,431 - root - INFO - SUCCESS    Clear and type element: <class->password> content: 123456, Spend 0.06399989128112793 seconds
+2018-09-03 13:58:03,487 - root - INFO - SUCCESS    Clicked element: <css->#customer-login > div > div > form > dl.btn > dd > input>, Spend 0.054000139236450195 seconds
+2018-09-03 13:58:07,505 - root - INFO - SUCCESS    Get current window title, Spend 0.01699995994567871 seconds
+2018-09-03 13:58:09,634 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1089999675750732 seconds
+2018-09-03 13:58:09,634 - root - INFO - ###############################  End  ###############################

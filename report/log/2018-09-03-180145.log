@@ -1,0 +1,20 @@
+2018-09-03 18:01:45,073 - root - INFO - ############################### START ###############################
+2018-09-03 18:01:47,880 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.7039999961853027 seconds
+2018-09-03 18:01:49,009 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1279997825622559 seconds
+2018-09-03 18:01:51,281 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 2.233999729156494 seconds
+2018-09-03 18:01:52,705 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 1.4219999313354492 seconds
+2018-09-03 18:01:52,832 - root - INFO - SUCCESS    Clicked element: <class->register-status>, Spend 0.12600016593933105 seconds
+2018-09-03 18:01:52,923 - root - INFO - SUCCESS    Clear and type element: <class->phone> content: 1398089145011, Spend 0.08899998664855957 seconds
+2018-09-03 18:01:52,986 - root - INFO - SUCCESS    Clear and type element: <class->password> content: 123456, Spend 0.06299972534179688 seconds
+2018-09-03 18:01:53,049 - root - INFO - SUCCESS    Clicked element: <css->#customer-login > div > div > form > dl.btn > dd > input>, Spend 0.06200003623962402 seconds
+2018-09-03 18:02:08,068 - root - INFO - SUCCESS    Get current window title, Spend 0.017000198364257812 seconds
+2018-09-03 18:02:08,217 - root - INFO - SUCCESS    Clicked element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>, Spend 0.1360001564025879 seconds
+2018-09-03 18:02:13,348 - root - INFO - SUCCESS    Click element: <class->icon-icon-test> open a new window and swich into, Spend 0.09399986267089844 seconds
+2018-09-03 18:02:14,412 - root - INFO - SUCCESS    Get current window title, Spend 1.062999963760376 seconds
+2018-09-03 18:02:14,467 - root - INFO - SUCCESS    Get element text element: <css-> div.call > span.switch > ul > li.on>, Spend 0.03800010681152344 seconds
+2018-09-03 18:02:14,496 - root - INFO - SUCCESS    Get element text element: <css-> div.pull-left.callout-data > .data-content> .fieldset> dl:nth-child(1) > dd:nth-child(2)>, Spend 0.02700018882751465 seconds
+2018-09-03 18:02:14,528 - root - INFO - SUCCESS    Get element text element: <css-> section > dl:nth-child(2) > dd:nth-child(4)>, Spend 0.032000064849853516 seconds
+2018-09-03 18:02:14,559 - root - INFO - SUCCESS    Get element text element: <css-> section > dl:nth-child(1) > dd:nth-child(4)>, Spend 0.03099989891052246 seconds
+2018-09-03 18:02:14,588 - root - INFO - SUCCESS    Get element text element: <css->div.pull-left.callout-data > div > section > dl:nth-child(2) > dd.c-green>, Spend 0.0280001163482666 seconds
+2018-09-03 18:02:16,720 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.130000114440918 seconds
+2018-09-03 18:02:16,721 - root - INFO - ###############################  End  ###############################

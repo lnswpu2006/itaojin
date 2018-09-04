@@ -1,0 +1,16 @@
+2018-09-04 11:22:53,290 - root - INFO - ############################### START ###############################
+2018-09-04 11:22:55,999 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.6030001640319824 seconds
+2018-09-04 11:22:57,116 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.116999864578247 seconds
+2018-09-04 11:23:02,138 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 5.00600004196167 seconds
+2018-09-04 11:23:10,316 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 8.177000045776367 seconds
+2018-09-04 11:23:15,468 - root - INFO - SUCCESS    Clicked element: <class->register-status>, Spend 5.1509997844696045 seconds
+2018-09-04 11:23:15,611 - root - INFO - SUCCESS    Clear and type element: <class->phone> content: 1398089145011, Spend 0.1419999599456787 seconds
+2018-09-04 11:23:15,686 - root - INFO - SUCCESS    Clear and type element: <class->password> content: 123456, Spend 0.07500004768371582 seconds
+2018-09-04 11:23:20,781 - root - INFO - SUCCESS    Clicked element: <css->#customer-login > div > div > form > dl.btn > dd > input>, Spend 5.093999862670898 seconds
+2018-09-04 11:23:25,806 - root - INFO - SUCCESS    Get current window title, Spend 0.023999929428100586 seconds
+2018-09-04 11:23:25,837 - root - INFO - FAIL    Unable to get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.021999835968017578 seconds
+2018-09-04 11:23:30,944 - root - INFO - SUCCESS    Click element: <class->icon-icon-test> open a new window and swich into, Spend 5.081999778747559 seconds
+2018-09-04 11:23:30,950 - root - INFO - SUCCESS    Get current window title, Spend 0.006000041961669922 seconds
+2018-09-04 11:23:36,081 - root - INFO - FAIL    Unable to click element: <css->.icon-call>, Spend 5.0879998207092285 seconds
+2018-09-04 11:23:38,184 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0989997386932373 seconds
+2018-09-04 11:23:38,185 - root - INFO - ###############################  End  ###############################

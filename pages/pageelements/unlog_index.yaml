@@ -1,0 +1,24 @@
+unlog_index:
+  name: 首页
+  locators:
+    -
+      name: 登录
+      css: class->login-btn
+
+    -
+      name: login_by_username
+      css: class->register-status
+    -
+      name: username
+      css: class->phone
+    -
+      name: password
+      css: class->password
+    -
+      name: submit
+      css: css->#customer-login > div > div > form > dl.btn > dd > input
+    -
+      name: ok
+      css: class->.btn-box>.submit-btn
+
+

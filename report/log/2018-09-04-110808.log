@@ -1,0 +1,25 @@
+2018-09-04 11:08:08,916 - root - INFO - ############################### START ###############################
+2018-09-04 11:08:11,797 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.7740001678466797 seconds
+2018-09-04 11:08:12,943 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1449999809265137 seconds
+2018-09-04 11:08:15,268 - root - INFO - SUCCESS    Navigated to http://t.itaojin.cn, Spend 2.306999683380127 seconds
+2018-09-04 11:08:16,444 - root - INFO - SUCCESS    Clicked element: <class->login-btn>, Spend 1.1739997863769531 seconds
+2018-09-04 11:08:16,567 - root - INFO - SUCCESS    Clicked element: <class->register-status>, Spend 0.1230001449584961 seconds
+2018-09-04 11:08:16,649 - root - INFO - SUCCESS    Clear and type element: <class->phone> content: 1398089145011, Spend 0.08099985122680664 seconds
+2018-09-04 11:08:16,713 - root - INFO - SUCCESS    Clear and type element: <class->password> content: 123456, Spend 0.06400012969970703 seconds
+2018-09-04 11:08:16,780 - root - INFO - SUCCESS    Clicked element: <css->#customer-login > div > div > form > dl.btn > dd > input>, Spend 0.06599974632263184 seconds
+2018-09-04 11:08:21,793 - root - INFO - SUCCESS    Get current window title, Spend 0.012000083923339844 seconds
+2018-09-04 11:08:21,845 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.0410001277923584 seconds
+2018-09-04 11:08:22,854 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.007999897003173828 seconds
+2018-09-04 11:08:23,891 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03500008583068848 seconds
+2018-09-04 11:08:24,928 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03500008583068848 seconds
+2018-09-04 11:08:25,964 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.034999847412109375 seconds
+2018-09-04 11:08:27,001 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03500008583068848 seconds
+2018-09-04 11:08:28,037 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03299999237060547 seconds
+2018-09-04 11:08:29,074 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03600001335144043 seconds
+2018-09-04 11:08:30,115 - root - INFO - SUCCESS    Get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.03800010681152344 seconds
+2018-09-04 11:08:31,290 - root - INFO - SUCCESS    Clicked element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>, Spend 0.17300009727478027 seconds
+2018-09-04 11:08:31,302 - root - INFO - FAIL    Unable to get attribute element: <css->body > div.modal.fade.in > div > div > div.modal-body > form > div.btn-box > input>,attribute: value, Spend 0.010999917984008789 seconds
+2018-09-04 11:08:31,376 - root - INFO - FAIL    Click element: <class->icon-icon-test> open a new window and swich into, Spend 0.04799985885620117 seconds
+2018-09-04 11:08:41,520 - root - INFO - FAIL    Unable to click element: <css->.icon-call>, Spend 5.127000093460083 seconds
+2018-09-04 11:08:43,625 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1000001430511475 seconds
+2018-09-04 11:08:43,626 - root - INFO - ###############################  End  ###############################
